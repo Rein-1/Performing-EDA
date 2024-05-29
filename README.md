@@ -2,4 +2,6 @@
 
 
 Using NumPy and Pandas for data analysis, data manipulation and data cleaning.
-Using Matplotlib and Seaborn for data visudalization.
+
+
+Using Matplotlib and Seaborn for data visualization.
